@@ -95,6 +95,42 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
+###<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px> </picture> Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.php.net/" target="_blank"> 
+   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://laravel.com/" target="_blank">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> API Roadmap</picture>
+  <ul>
+    <li>REST</li>
+    <li>JSON API</li>
+    <li>SOAP</li>
+  </ul>
+  <ul>
+    <li>Postman</li>
+    <li>Swagger / OpenAPI</li>
+    <li>API Blueprint</li>
+  </ul>
+</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  

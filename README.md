@@ -1,7 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-Hello I'm Mohamed Alaa   [( SoftWare Developer )]
- I Excel At Crafting Elegent Digital Experiences And I Am Proficient In Various Programming Languages And Technologies.
+Hello I'm Mohamed Alaa  
 </h1>
 
 <br>
@@ -36,7 +35,7 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
 <p align="center">
 	<a href="mailto:muhammadalaaeldein@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/mo7amedAlaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201068263431"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/201068263431"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/mohamed-alaa-81923423a"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100051765841605"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
  
@@ -95,7 +94,7 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
-###<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px> </picture> Backend Development
+###<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width=50px> </picture> Backend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.php.net/" target="_blank"> 
@@ -106,24 +105,25 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white">
-  </a>
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> API Roadmap</picture>
-  <ul>
+  <ul >
     <li>REST</li>
     <li>JSON API</li>
     <li>SOAP</li>
+  </ul>
+  <ul  >
+    <li>My SQL</li>
+    <li>SQL</li>
+    <li>postgresql</li>
+    <li>fireStoreL</li>
+    <li>Reeltime Data base</li>
+  
   </ul>
   <ul>
     <li>Postman</li>
@@ -341,7 +341,8 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
 
 ###
 
-<p align="left">My name is Mohamed Alaa and I'm a  Full Stack developer.</p>
+<p align="left">My name is Mohamed Alaa  l am SoftWare Developer  
+ </p>
 
 ###
 
@@ -352,7 +353,6 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
 <p align="left">📚I Excel At Crafting Elegent Digital Experiences And I Am Proficient In Various Programming Languages And Technologies.</p>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -365,6 +365,13 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
 </div>
+
 
 ###

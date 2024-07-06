@@ -282,7 +282,7 @@ Hello I'm Mohamed Alaa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img src="https://www.hvdig.co.uk/laravel-agency" height="40" alt="laravel logo"  />
 </div>
 
 

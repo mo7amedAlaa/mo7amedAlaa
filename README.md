@@ -1,4 +1,7 @@
-<h1 align="center">Hi , I'm Mohamed Alaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">SoftWare Developer
+Hello I'm
+Mohamed Alaa
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://iconscout.com/lottie-animations/full" class="text-underline font-size-sm" target="_blank">Full Stack Developer Male</a> by <a href="https://iconscout.com/contributors/flat-icons" class="text-underline font-size-sm" target="_blank">Flat-icons.com</a>
 </p>
@@ -321,7 +324,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Html,Css, Tailwind Css, Bootstrap, JavaScript, Typescript,Next js,Tree js,jest<br>⚡Make front end for website Application, responsive website in all screen</p>
+<p align="left">📚I Excel At Crafting Elegent Digital Experiences And I Am Proficient In Various Programming Languages And Technologies.</p>
 
 ###
 

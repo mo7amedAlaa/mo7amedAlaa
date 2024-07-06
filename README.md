@@ -29,7 +29,7 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]( ).
-- :boom: You can visit [MY WEBSITE]( ).
+- :boom: You can visit [MY WEBSITE](https://my-portfolio-ockk.vercel.app/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -85,6 +85,11 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/next.js-%2361DAFB.svg?style=plastic&logo=Next.js&logoColor=black">
+</a>
+
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -300,7 +305,7 @@ Hello I'm Mohamed Alaa   [( SoftWare Developer )]
 
 ###
 
-<p align="left">My name is Mohamed Alaa and I'm a React Next JS FrontEnd developer.</p>
+<p align="left">My name is Mohamed Alaa and I'm a  Full Stack developer.</p>
 
 ###
 
